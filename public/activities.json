@@ -1,0 +1,53 @@
+
+{
+    "Timesheets_Submision":
+    {
+        "id": 1,
+        "activityName": "Timesheets Submision"
+    },
+    "Weekly_Hours":
+    {
+        "id": 2,
+        "activityName": "Weekly Hours"
+    },
+    "Clock_In":
+    {
+        "id": 3,
+        "activityName": "ClockIn"
+    },
+    "Clock_Out":
+    {
+        "id": 4,
+        "activityName": "ClockOut"
+    },
+    "Timesheets_Accuracy":
+    {
+        "id": 5,
+        "activityName": "Timesheets Accuracy"
+    },
+    "Daily_Scrums":
+    {
+        "id": 6,
+        "activityName": "Daily Scrums"
+    },
+    "Tasks_Updation":
+    {
+        "id": 7,
+        "activityName": "Tasks Updation"
+    },
+    "TEO_Lounge":
+    {
+        "id": 8,
+        "activityName": "Participation in TEO Lounge"
+    },
+    "TEO_Intiatives ":
+    {
+        "id": 9,
+        "activityName": "TEO Intiatives "
+    },
+    "Goodwork_Projects":
+    {
+        "id": 10,
+        "activityName": "Good Work in Projects"
+    }
+}
