@@ -1,0 +1,233 @@
+[
+  {
+    "userId": 1,
+    "totalRewardsDuration": "5Years 0Month",
+    "profileDetail": {
+      "userName": "Muhammad Ajmal Rafique",
+      "userAbout": "a tech lead at TEO intl. since last more than 7 years. Passion for software development. My hobbies are book reading, explore new things related to technology.",
+      "userDesignation": "Ass. Principal Software Engineer",
+      "userImg": "./images/ajmalrafique.jpg"
+    },
+    "totalRewardsDetail": {
+      "totalPoints": 15000,
+      "totalPointsEarned": 11694,
+      "totalGoldPoints": 7694,
+      "totalSilverPoints": 2500,
+      "totalBronzePoints": 5500
+    },
+    "overAllEarnReward": {
+      "overAllEarnPoints": 11694,
+      "overAllEarnBadgeName": "Silver Badge",
+      "overAllEarnBadgeImg": "./images/reward_silver.png"
+    },
+    "durationTotalRewards": [ "WeeklyTimesheets", "initiatives", "Daily Scrum", "Check-In" ]
+  },
+  {
+    "userId": 2,
+    "totalRewardsDuration": "6Years 7Months",
+    "profileDetail": {
+      "userName": "Sadiq Ullah",
+      "userAbout": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
+      "userDesignation": "Software Engineer",
+      "userImg": "./images/sadiqullah.jpg"
+    },
+    "totalRewardsDetail": {
+      "totalPoints": 13000,
+      "totalPointsEarned": 9050,
+      "totalGoldPoints": 4050,
+      "totalSilverPoints": 2810,
+      "totalBronzePoints": 2190
+    },
+    "overAllEarnReward": {
+      "overAllEarnPoints": 9050,
+      "overAllEarnBadgeName": "Gold Badge",
+      "overAllEarnBadgeImg": "./images/reward_gold.png"
+    },
+    "durationTotalRewards": [ "Timesheet Submission", "weeklyHours", "Check-In" ]
+  },
+  {
+    "userId": 3,
+    "totalRewardsDuration": "9Years 11Months",
+    "profileDetail": {
+      "userName": "Jennifer Lopez",
+      "userAbout": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "userDesignation": "Staff Engineer",
+      "userImg": "./images/jen.jpg"
+    },
+    "totalRewardsDetail": {
+      "totalPoints": 57070,
+      "totalPointsEarned": 34270,
+      "totalGoldPoints": 4050,
+      "totalSilverPoints": 5074,
+      "totalBronzePoints": 3846
+    },
+    "overAllEarnReward": {
+      "overAllEarnPoints": 34270,
+      "overAllEarnBadgeName": "Bronze Badge",
+      "overAllEarnBadgeImg": "./images/reward_bronze.png"
+    },
+    "durationTotalRewards": [ "Timesheet Submission", "weeklyHours", "Check-out", "Initiatives" ]
+  },
+  {
+    "userId": 4,
+    "totalRewardsDuration": "9Years 11Months",
+    "profileDetail": {
+      "userName": "Muhammad Shahzad Mirza",
+      "userAbout": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "userDesignation": "Staff Engineer",
+      "userImg": "./images/m.shehzad.jpg"
+    },
+    "totalRewardsDetail": {
+      "totalPoints": 57070,
+      "totalPointsEarned": 34270,
+      "totalGoldPoints": 4050,
+      "totalSilverPoints": 5074,
+      "totalBronzePoints": 3846
+    },
+    "overAllEarnReward": {
+      "overAllEarnPoints": 34270,
+      "overAllEarnBadgeName": "Gold Badge",
+      "overAllEarnBadgeImg": "./images/reward_gold.png"
+    },
+    "durationTotalRewards": [ "Timesheet Submission", "weeklyHours", "Check-out", "Initiatives" ]
+  },
+  {
+    "userId": 5,
+    "totalRewardsDuration": "9Years 11Months",
+    "profileDetail": {
+      "userName": "Ahmed Mazhar Khan",
+      "userAbout": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "userDesignation": "Associate Principle Software Engineer",
+      "userImg": "./images/AhmedMazher.jpg"
+    },
+    "totalRewardsDetail": {
+      "totalPoints": 57070,
+      "totalPointsEarned": 34270,
+      "totalGoldPoints": 4050,
+      "totalSilverPoints": 5074,
+      "totalBronzePoints": 3846
+    },
+    "overAllEarnReward": {
+      "overAllEarnPoints": 34270,
+      "overAllEarnBadgeName": "Gold Badge",
+      "overAllEarnBadgeImg": "./images/reward_gold.png"
+    },
+    "durationTotalRewards": [ "Timesheet Submission", "weeklyHours", "Check-out", "Initiatives" ]
+  },
+  {
+    "userId": 6,
+    "totalRewardsDuration": "5Years 6Months",
+    "profileDetail": {
+      "userName": "Munsif Hayat",
+      "userAbout": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ex ea commodo consequat.",
+      "userDesignation": "Associate Principle Software Engineer",
+      "userImg": "./images/munsifhayat.jpg"
+    },
+    "totalRewardsDetail": {
+      "totalPoints": 57070,
+      "totalPointsEarned": 34270,
+      "totalGoldPoints": 4050,
+      "totalSilverPoints": 5074,
+      "totalBronzePoints": 3846
+    },
+    "overAllEarnReward": {
+      "overAllEarnPoints": 34270,
+      "overAllEarnBadgeName": "Gold Badge",
+      "overAllEarnBadgeImg": "./images/reward_gold.png"
+    },
+    "durationTotalRewards": [ "Timesheet Submission", "weeklyHours", "Check-out", "Initiatives" ]
+  },
+  {
+    "userId": 7,
+    "totalRewardsDuration": "5Years 6Months",
+    "profileDetail": {
+      "userName": "Kashif Mahmood Mirza",
+      "userAbout": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+      "userDesignation": "Sr. Network Engineer",
+      "userImg": "./images/kashifmirza.jpg"
+    },
+    "totalRewardsDetail": {
+      "totalPoints": 57070,
+      "totalPointsEarned": 34270,
+      "totalGoldPoints": 4050,
+      "totalSilverPoints": 5074,
+      "totalBronzePoints": 3846
+    },
+    "overAllEarnReward": {
+      "overAllEarnPoints": 34270,
+      "overAllEarnBadgeName": "Silver Badge",
+      "overAllEarnBadgeImg": "./images/reward_silver.png"
+    },
+    "durationTotalRewards": [ "Timesheet Submission", "weeklyHours", "Check-out", "Initiatives" ]
+  },
+  {
+    "userId": 8,
+    "totalRewardsDuration": "8Years 6Months",
+    "profileDetail": {
+      "userName": "Zafr Ullah Khan",
+      "userAbout": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "userDesignation": "Sr. Principal Software Engineer",
+      "userImg": "./images/ZafrKhan.jpg"
+    },
+    "totalRewardsDetail": {
+      "totalPoints": 57070,
+      "totalPointsEarned": 34270,
+      "totalGoldPoints": 4050,
+      "totalSilverPoints": 5074,
+      "totalBronzePoints": 3846
+    },
+    "overAllEarnReward": {
+      "overAllEarnPoints": 34270,
+      "overAllEarnBadgeName": "Gold Badge",
+      "overAllEarnBadgeImg": "./images/reward_gold.png"
+    },
+    "durationTotalRewards": [ "Timesheet Submission", "weeklyHours", "Check-out", "Initiatives" ]
+  },
+  {
+    "userId": 9,
+    "totalRewardsDuration": "6Years 6Months",
+    "profileDetail": {
+      "userName": "Rashid Ali",
+      "userAbout": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "userDesignation": "Principal Software Engineer",
+      "userImg": "./images/Rashid1.jpg"
+    },
+    "totalRewardsDetail": {
+      "totalPoints": 57070,
+      "totalPointsEarned": 34270,
+      "totalGoldPoints": 4050,
+      "totalSilverPoints": 5074,
+      "totalBronzePoints": 3846
+    },
+    "overAllEarnReward": {
+      "overAllEarnPoints": 34270,
+      "overAllEarnBadgeName": "Silver Badge",
+      "overAllEarnBadgeImg": "./images/reward_Silver.png"
+    },
+    "durationTotalRewards": [ "Timesheet Submission", "weeklyHours", "Check-out", "Initiatives" ]
+  },
+  {
+    "userId": 10,
+    "totalRewardsDuration": "8Years 6Months",
+    "profileDetail": {
+      "userName": "Abdul Khaliq",
+      "userAbout": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "userDesignation": "Principal Software Engineer",
+      "userImg": "./images/AbdulKhaliq.jpg"
+    },
+    "totalRewardsDetail": {
+      "totalPoints": 57070,
+      "totalPointsEarned": 34270,
+      "totalGoldPoints": 4050,
+      "totalSilverPoints": 5074,
+      "totalBronzePoints": 3846
+    },
+    "overAllEarnReward": {
+      "overAllEarnPoints": 34270,
+      "overAllEarnBadgeName": "Gold Badge",
+      "overAllEarnBadgeImg": "./images/reward_gold.png"
+    },
+    "durationTotalRewards": [ "Timesheet Submission", "weeklyHours", "Check-out", "Initiatives" ]
+  }
+
+]
